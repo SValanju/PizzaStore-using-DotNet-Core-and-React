@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\.Net Projects\\PizzaStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0CDE75-14ED-4658-8885-B1C49380F8D6}|PizzaStore\\PizzaStore.csproj|d:\\projects\\.net projects\\pizzastore\\pizzastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0CDE75-14ED-4658-8885-B1C49380F8D6}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0CDE75-14ED-4658-8885-B1C49380F8D6}|PizzaStore\\PizzaStore.csproj|d:\\projects\\.net projects\\pizzastore\\pizzastore\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0CDE75-14ED-4658-8885-B1C49380F8D6}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0CDE75-14ED-4658-8885-B1C49380F8D6}|PizzaStore\\PizzaStore.csproj|d:\\projects\\.net projects\\pizzastore\\pizzastore\\db\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0CDE75-14ED-4658-8885-B1C49380F8D6}|PizzaStore\\PizzaStore.csproj|solutionrelative:pizzastore\\db\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects\\PizzaStore\\PizzaStore\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\Program.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects\\PizzaStore\\PizzaStore\\Program.cs",
+              "RelativeToolTip": "PizzaStore\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:04:20.864Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Db.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects\\PizzaStore\\PizzaStore\\DB\\Db.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\DB\\Db.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects\\PizzaStore\\PizzaStore\\DB\\Db.cs",
+              "RelativeToolTip": "PizzaStore\\DB\\Db.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:14:39.862Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "D:\\Projects\\.Net Projects\\PizzaStore\\PizzaStore\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzaStore\\Models\\Pizza.cs",
+              "ToolTip": "D:\\Projects\\.Net Projects\\PizzaStore\\PizzaStore\\Models\\Pizza.cs",
+              "RelativeToolTip": "PizzaStore\\Models\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:00:10.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
